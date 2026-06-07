@@ -1,0 +1,6 @@
+{
+  "name": "K-Drama Analytics Hub",
+  "description": "An interactive dashboard showing real-time audience sentiment, viewer drivers, and trending actor performance metrics for popular K-Dramas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
